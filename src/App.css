@@ -1,0 +1,28 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.child {
+  width: 600px;
+  height: 500px;
+}
+
+.col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.col {
+  margin-top: 40px;
+}
+
+.card {
+  margin: 10px;
+}
+
+.activity-title {
+  font-size: 20px;
+}
+
